@@ -1,19 +1,22 @@
 # Hello World
 
-This is my home page! My name is Grant Duong and I am a student at Cal State Fullerton(http://www.fullerton.edu) and my major is Computer Engineering.
+This is my home page! My name is Grant and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
 
-## Computer Science Projects
+## Computer Projects
 
-My GitHub page is http://github.com/GrantDuong.
+My Github page is http://github.com/GrantDuong
+
+### CPSC 120
 
 *Lab 1
 
-    Lab 1 taught me the basics to submitting.
+    First lab showed me how to submit code.
 
 *Lab 2
 
-    Lab 2 was fun because it was the first lab with real coding.
+    First real lab with basic coding.
 
 *Lab 12
 
-    Lab 12 was fun because it was the last lab.
+    The last lab of the semester.
+    
