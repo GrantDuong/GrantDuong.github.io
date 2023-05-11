@@ -19,4 +19,3 @@ My Github page is http://github.com/GrantDuong
 *Lab 12
 
 	The last lab of the semester.
-	
